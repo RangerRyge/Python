@@ -1,3 +1,3 @@
-## Github page for Python class!
-# Excersises will follow below.
+# Github page for Python class!
+### Excersises will follow below.
 
