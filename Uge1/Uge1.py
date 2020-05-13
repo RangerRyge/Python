@@ -51,6 +51,6 @@ for x in dice1: ## Adding throws that can have sum
 print(diceDict)
 
 for x in diceDict: ## Calculates the probability
-     diceDict[x] = str(round(diceDict.get(x)/36*100,2)) + "%"
+     diceDict[x] = (round(diceDict.get(x)/36*100,2)) + "%"
 
 print(diceDict)
